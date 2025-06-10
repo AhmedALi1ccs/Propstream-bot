@@ -1,0 +1,13 @@
+# PropStream Property Data Scraper Requirements
+
+# Core dependencies
+streamlit>=1.28.0
+playwright>=1.40.0
+pandas>=2.0.0
+
+# Additional utilities (if needed for data processing)
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Development and debugging (optional)
+requests>=2.31.0
